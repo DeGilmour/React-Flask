@@ -12,6 +12,7 @@ In the config.py file,
 
 1. Add your MongoDB connection string to the const MONGO_URI
 2. Add a secret key to the const SECRET_KEY
+4. Create a product on MongoDb named products.
 3. Save the file.
 
 Now inside the React-Flask folder, using a bash terminal, run:
