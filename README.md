@@ -2,10 +2,10 @@ How to start this application.
 
 Starting the backend: 
 
-Inside the React-Flask folder, using a bash terminal, run:
+Inside the React-Flask folder, create a virtual enviroment.
+Run it, and run the following command:
 
-cd venv/Scripts
-activate
+pip install -r requirements.txt
 
 Go back to the React-Flask folder.
 In the config.py file,
