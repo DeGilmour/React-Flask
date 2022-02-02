@@ -1,0 +1,9 @@
+.background{
+    background-image: url('http://localhost:5000/get-image/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cards{
+    max-width: 50%;
+}
