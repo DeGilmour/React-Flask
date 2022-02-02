@@ -25,6 +25,7 @@ Starting the frontend:
 Inside the React-Flask folder, using a bash terminal.
 
 cd client/client-view-type
+npm i -s react-scripts
 npm start
 
 
